@@ -1,25 +1,4 @@
 # Drug Utilization Study
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4444771.svg)](https://doi.org/10.5281/zenodo.4444771)
-## Introduction
-This R package contains the resources for performing the drug utilization study of Ranitidine and other H2-receptor antagonists as described in detail in the protocol as registered at ENCePP website under registration number [EUPAS33397](http://www.encepp.eu/encepp/viewResource.htm?id=33398).
-
-*Background*:
-Ranitidine and other H2-receptor antagonists are competitive and reversible inhibitors of the action of histamine and indicated for the management of peptic ulceration, Gastro-Esophageal Reflux Disease reflux esophagitis and Zollinger-Ellison syndrome. Preliminary laboratory analyses have shown the presence of N-Nitrosodimethylamine, a human carcinogen, in ranitidine. By means of a drug utilisation study, we wanted to explore exposure characteristics of ranitidine in multiple electronic healthcare databases in Europe.
-
-*Methods*: 
-In six European electronic primary healthcare databases (IPCI-Netherlands, SIDIAP-Spain, IMRD-UK, LPD-Belgium, DA-France, DA-Germany), the incidence and prevalence of use of ranitidine and other H2-receptor antagonists over calendar time were investigated. In the cohorts of users the cumulative duration of use, its dosing and the indication were determined. Differences in duration and dosing between age and indication groups were investigated. The presence of chronic renal impairment in users were reported.
-
-*Results*: 
-In a population of almost 42 million, 1,006,319 users of ranitidine were identified resulting in an incidence of ranitidine ranging between 0.7 to 11.4/1,000 persons and a prevalence of 1.0 to 28.3/1,000 persons over all databases and over all studied calendar years. The incidence and prevalence increased with age and was higher in females than in males. The proportion of patients using ranitidine for a duration between 1-10 years was low and ranged between 6.5-18.8%. Use of ranitidine for more than 10 years was less than 4%. 
-
-Over the six databases, the median cumulative duration of ranitidine ranged between 28 to 60 days with a median cumulative dose ranging between 8.4 and 16.8 g. Both were the highest in individuals older than 75 years. 
-Of the patients with an indication of use, the majority used ranitidine for reflux disease (range over databases 71-94%). 
-Results for other members of the drug class were similar.
-
-*Conclusion*: 
-The incidence and prevalence of ranitidine was low in the six European countries. Ranitidine use was highest in females and in the elderly. The proportion of patients using ranitidine for more than 10 years was less than 5% and median cumulative duration and median cumulative exposure were low
-
-The results of the Ranitidine Study are available in an interactive [shiny application](https://mi-erasmusmc.shinyapps.io/ResultsExplorer/).
 
 ## Installation 
 If you like to execute this study against your own OMOP CDM follow these instructions:
